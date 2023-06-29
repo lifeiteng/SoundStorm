@@ -1,4 +1,6 @@
-# SoundStorm
+# SoundStorm: Efficient Parallel Audio Generation
+![](assets/soundstorm.png)
+
 
 # Progress
 - [x] Implement modules
