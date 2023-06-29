@@ -57,3 +57,8 @@ Thank you very much for your support!
 
 我深信，您的慷慨赞助将使我能够继续开展创新的研究和项目，并为广大赞助者提供出色的技术支持和个性化服务。
 非常感谢您对我的支持！
+
+![](.github/guide.jpeg)
+或者
+![](.github/sponsor.jpg)
+
