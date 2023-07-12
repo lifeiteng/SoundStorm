@@ -2,14 +2,8 @@
 ![](assets/soundstorm.png)
 
 
-# Progress
-- [x] Implement modules
-- [x] Training
-- [x] End-To-End Synthesizer
-- [x] Inference Sampling
-- [x] Subjective Evaluation
-- [x] Objective Evaluation
-- [x] [Demo Page](https://lifeiteng.github.io/SoundStorm/index.html)
+# Demo Page
+* [https://lifeiteng.github.io/SoundStorm/index.html](https://lifeiteng.github.io/SoundStorm/index.html)
 
 # Objective Evaluation
 * `LibriTTS test clean`
